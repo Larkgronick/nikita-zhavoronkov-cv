@@ -21,20 +21,25 @@
 A little **background** story:
 >My  first meeting with IT word was at the university, when i did laboratory classes in Visual Basic. I was so exited about opportunities and results in coding, so i even decide  to make my own interactive strategy game. I spend much time trying to bring my ideas with realizing this project and this was very fun. But it was a long time ago... 
 
-Today i feel that it was some sort of signal, so i decide to umprove my skills and change my life. 
-I believe, that becoming knowledge in web-design, programming languages, and developer stuff can help me to realize my ideas in future projects can help people and make them happy
+Today i feel that it was some sort of signal, so i decide to improve my skills and change my life. 
+I believe, that becoming knowledge in web-design, programming languages, and developer stuff can help me to realize my ideas in future projects.
 
 ### Courses and skills
 ---------   
 #### HTML/CSS/JS Basics
 * [Codecademy](https://www.codecademy.com/users/larkgronick/achievements)
 * [HTMLAcademy](https://htmlacademy.ru/profile/id1192587/achievements)
+* [Codewars](https://www.codewars.com/users/Larkgronick)
 * [Sololearn](https://www.sololearn.com/Profile/11857617) 
 * [Stepik](https://stepik.org/users/76568363/)
 ##### Code experience
 
-During Stepik course *"HTML и CSS for beginners"* i create my first HTML-page based on this [PSD sample](https://www.figma.com/file/BL7wdCOSIxYFu1uxctuVzg/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-Pied-Piper?node-id=0%3A1). It's not a masterpiece, but something, that i can be proud.
-Also i have some basic experience with site layout and Java Script during Q1 2019 Rolling Scopes courses.
+I start my front-end education with Stepik course *"HTML и CSS for beginners"* i create my first HTML-page based on this [PSD sample](https://www.figma.com/file/BL7wdCOSIxYFu1uxctuVzg/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-Pied-Piper?node-id=0%3A1). It's not a masterpiece, but something, that i can be proud.
+During Q1 2019 Rolling Scopes courses i receive good  experience with site layout:   
+(https://github.com/Larkgronick/Dom-Pallete)
+(https://github.com/Larkgronick/NeutronMail)
+(https://github.com/Larkgronick/hexal-)
+and Java Script =)
 
 #### Education
 ---------
@@ -46,6 +51,7 @@ Specialty | Experience
 
 #### English level:
 A2 — (Pre-Intermediate) 
+Complete ESL English Courses (http://www.esl.by/) - 20.01.19-24.01.19
 *How did i achieve this?*
 * Mostly self education by books, video and social networks
 * I like english =)  
