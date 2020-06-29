@@ -1,8 +1,4 @@
 
-## Nikita Zhavoronkov
-
-![Nikita Zhavoronkov](file:///E:\Study\RS%20SCHOOL\Q1%202020\nikita-zhavoronkov-cv\me.JPG)
----------   
 ### Location
   Rotmistrova str.              Minsk, Belarus  
 
