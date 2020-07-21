@@ -52,7 +52,10 @@ with JS:
 * [Movie Search](https://larkgronick-movie-search.netlify.app/)
 * [Fancy Weather](https://larkgronick-fansy-weather.netlify.app)
 
-Right now i am working at team english learning application project with React.js framework.
+Team project with React-Redux: 
+
+* [RS Lang](https://rslang-team19-alexeikravchuk.netlify.app/)
+My parts: Login/Registration pages, Routing, Audiocall game, partly Statisctic and Word Cards pages. Also i was elected as a team representative for project presentation.
 
 
 #### Education
@@ -64,7 +67,8 @@ Specialty | Experience
  **[2015 - 2016] M. Ec.; Economics and Organization of Production**; Belorussian National Tehnikal University, Automotive amd tractor faculty (Minsk)| Principles of the company, Macro -micro economics knowledge
 
 #### English level
-A2 — (Pre-Intermediate) - B1 (Intermediate) 
+A2 — (Pre-Intermediate) - B1 (Intermediate)
+[Express Js - Presentation](https://www.youtube.com/watch?v=MAEYjS8NlLQ) 
 
 *How did i achieve this?*
 * Mostly self education by books, video and social networks
